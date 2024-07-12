@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "wiringpi.h": "c",
+        "locale.h": "c",
+        "stdio.h": "c"
+    }
+}
